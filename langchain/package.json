@@ -1282,7 +1282,7 @@
     "redis": "^4.6.6",
     "release-it": "^15.10.1",
     "rimraf": "^5.0.1",
-    "rollup": "^3.19.1",
+    "rollup": "^3.29.5",
     "sonix-speech-recognition": "^2.1.1",
     "srt-parser-2": "^1.2.3",
     "ts-jest": "^29.1.0",

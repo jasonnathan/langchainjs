@@ -8978,7 +8978,7 @@ __metadata:
     redis: ^4.6.6
     release-it: ^15.10.1
     replicate: ^0.18.0
-    rollup: ^3.19.1
+    rollup: ^3.29.5
     ts-jest: ^29.1.0
     typeorm: ^0.3.12
     typescript: ~5.1.6
@@ -25722,7 +25722,7 @@ __metadata:
     redis: ^4.6.6
     release-it: ^15.10.1
     rimraf: ^5.0.1
-    rollup: ^3.19.1
+    rollup: ^3.29.5
     sonix-speech-recognition: ^2.1.1
     srt-parser-2: ^1.2.3
     ts-jest: ^29.1.0
@@ -31430,9 +31430,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^3.19.1":
-  version: 3.19.1
-  resolution: "rollup@npm:3.19.1"
+"rollup@npm:^3.29.5":
+  version: 3.29.5
+  resolution: "rollup@npm:3.29.5"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -31440,7 +31440,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: f78198c6de224b26650c70b16db156762d1fcceeb375d34fb2c76fc5b23a78f712c3c881d3248e6f277a511589e20d50c247bcf5c7920f1ddc0a43cadf9f0140
+  checksum: 6f8304e58ac8170a715e61e46c4aa674b2ae2587ed2a712dab58f72e5e54803ae40b485fbe6b3e6a694f4c8f7a59ab936ccf9f6b686c7cfd1f1970fa9ecadf1a
   languageName: node
   linkType: hard
 
